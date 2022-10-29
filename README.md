@@ -1,4 +1,4 @@
-
+https://github.com/demartini/demartini/blob/master/code.gif?raw=true
 
 ## I'm Data Analyst ⚡🚀 !
 - 👋 Hi, I’m Sevginur Engin !
