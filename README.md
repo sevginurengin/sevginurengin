@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+
+<img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif" width="500" height="320" />
 
 
 ## I'm Data Analyst ⚡🚀 !
