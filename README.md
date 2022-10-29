@@ -24,7 +24,7 @@
 
 
 [instagram]: https://www.instagram.com/sevginurengin
-[linkedin]: https://www.linkedin.com/in/emrebhdr/
+[linkedin]: https://www.linkedin.com/in/sevginur-engin/
 [gmail]: mailto:sevginurengin05@gmail.com@gmail.com
 <br />
 
