@@ -1,4 +1,7 @@
-https://github.com/demartini/demartini/blob/master/code.gif?raw=true
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 
 ## I'm Data Analyst ⚡🚀 !
 - 👋 Hi, I’m Sevginur Engin !
